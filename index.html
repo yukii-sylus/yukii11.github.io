@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>首页</title></head>
+<body>
+    <h1>欢迎{% if session['user'] %} {{ session['user'] }} {% endif %}</h1>
+    <a href="/login">登录</a> | <a href="/register">注册</a>
+</body>
+</html>
