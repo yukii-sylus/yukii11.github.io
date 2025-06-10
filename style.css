@@ -1,13 +1,17 @@
 body {
   font-family: sans-serif;
-  background: #f5f5f5;
+  background: white;
+  background-image:url(yukii11.jpg) ;
   margin: 0;
   padding: 0;
 }
-header, footer {
-  background: #333;
-  color: white;
-  padding: 1em;
+header{
+  color: rgb(2, 24, 198);
+  padding: 3em;
+}
+footer{
+    color: white;
+  padding: 10em;
 }
 nav a {
   color: #fff;
