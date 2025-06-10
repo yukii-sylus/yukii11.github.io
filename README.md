@@ -23,7 +23,7 @@ python app.py
 - 设置 Nginx 代理
 
 ## 成果展示
-访问地址：http://你的公网IP
+访问地址：http://192.168.1.1
 
 ## 开发过程记录
 1. 创建 GitHub 仓库
